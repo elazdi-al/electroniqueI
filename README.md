@@ -1,3 +1,2 @@
-# comparch
-my comparch latex written course# electroniqueI
-# electroniqueI
+# electronique I
+my Electronique I latex written course.

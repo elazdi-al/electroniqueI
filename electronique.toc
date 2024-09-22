@@ -8,3 +8,22 @@
 \contentsline {subsubsection}{Exemples}{5}{section*.3}%
 \contentsline {subsection}{\numberline {1.1.4}Signal Sinusoïdal}{5}{subsection.1.1.4}%
 \contentsline {subsection}{\numberline {1.1.5}Création des signaux électriques}{6}{subsection.1.1.5}%
+\contentsline {subsection}{\numberline {1.1.6}Complément Terminologique}{6}{subsection.1.1.6}%
+\contentsline {section}{\numberline {1.2}Établissement d'un courant électrique}{7}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}La Résistance}{7}{subsection.1.2.1}%
+\contentsline {subsubsection}{Puissance et convention}{7}{section*.4}%
+\contentsline {subsubsection}{Cas Particulier - Deux piles}{8}{section*.5}%
+\contentsline {section}{\numberline {1.3}Analyse sources de tension idéale et réelle}{8}{section.1.3}%
+\contentsline {paragraph}{Source idéale :}{8}{section*.6}%
+\contentsline {paragraph}{Source réelle :}{8}{section*.7}%
+\contentsline {subsubsection}{Analyse graphique}{8}{section*.8}%
+\contentsline {section}{\numberline {1.4}Analyse des sources de courant idéales et réelles}{9}{section.1.4}%
+\contentsline {paragraph}{Source idéale :}{9}{section*.9}%
+\contentsline {paragraph}{Source réelle :}{9}{section*.10}%
+\contentsline {subsubsection}{Analyse graphique}{9}{section*.11}%
+\contentsline {section}{\numberline {1.5}Superposition de signaux}{10}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Démonstrations}{10}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Valeurs moyennes (Domaines Continus)}{10}{subsection.1.6.1}%
+\contentsline {subsubsection}{Méthode 1}{10}{section*.12}%
+\contentsline {subsubsection}{Méthode 2}{11}{section*.13}%
+\contentsline {subsubsection}{Application}{11}{section*.14}%

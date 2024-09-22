@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.4)  22 SEP 2024 16:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.4)  22 SEP 2024 20:19
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1024,12 +1024,12 @@ Overfull \hbox (26.30417pt too wide) in paragraph at lines 6--6
 \OT1/cmr/bx/n/10.95 (-20) Signal \OT1/cmr/m/n/10.95 (-20) : Grandeur physique qui varie en fonc-tion du temps, de l'espace ou d'autres vari-ables ind^^Sependantes.  
  []
 
-<chapters/chapter1/images/variable.png, id=70, 342.27875pt x 134.5025pt>
+<chapters/chapter1/images/variable.png, id=110, 342.27875pt x 134.5025pt>
 File: chapters/chapter1/images/variable.png Graphic file (type png)
 <use chapters/chapter1/images/variable.png>
 Package pdftex.def Info: chapters/chapter1/images/variable.png  used on input line 24.
 (pdftex.def)             Requested size: 217.66211pt x 85.53537pt.
-<chapters/chapter1/images/continu.png, id=72, 342.27875pt x 134.5025pt>
+<chapters/chapter1/images/continu.png, id=112, 342.27875pt x 134.5025pt>
 File: chapters/chapter1/images/continu.png Graphic file (type png)
 <use chapters/chapter1/images/continu.png>
 Package pdftex.def Info: chapters/chapter1/images/continu.png  used on input line 33.
@@ -1040,22 +1040,22 @@ Package pdftex.def Info: chapters/chapter1/images/continu.png  used on input lin
 
 
  <./chapters/chapter1/images/variable.png> <./chapters/chapter1/images/continu.png>]
-<chapters/chapter1/images/quelconque.png, id=80, 405.515pt x 134.5025pt>
+<chapters/chapter1/images/quelconque.png, id=120, 405.515pt x 134.5025pt>
 File: chapters/chapter1/images/quelconque.png Graphic file (type png)
 <use chapters/chapter1/images/quelconque.png>
 Package pdftex.def Info: chapters/chapter1/images/quelconque.png  used on input line 42.
 (pdftex.def)             Requested size: 241.84843pt x 80.2198pt.
-<chapters/chapter1/images/triangle.png, id=81, 405.515pt x 134.5025pt>
+<chapters/chapter1/images/triangle.png, id=121, 405.515pt x 134.5025pt>
 File: chapters/chapter1/images/triangle.png Graphic file (type png)
 <use chapters/chapter1/images/triangle.png>
 Package pdftex.def Info: chapters/chapter1/images/triangle.png  used on input line 52.
 (pdftex.def)             Requested size: 217.66211pt x 72.1972pt.
-<chapters/chapter1/images/carre.png, id=82, 397.485pt x 128.48pt>
+<chapters/chapter1/images/carre.png, id=122, 397.485pt x 128.48pt>
 File: chapters/chapter1/images/carre.png Graphic file (type png)
 <use chapters/chapter1/images/carre.png>
 Package pdftex.def Info: chapters/chapter1/images/carre.png  used on input line 61.
 (pdftex.def)             Requested size: 217.66211pt x 70.35641pt.
-<chapters/chapter1/images/sinus.png, id=83, 449.68pt x 395.4775pt>
+<chapters/chapter1/images/sinus.png, id=123, 449.68pt x 395.4775pt>
 File: chapters/chapter1/images/sinus.png Graphic file (type png)
 <use chapters/chapter1/images/sinus.png>
 Package pdftex.def Info: chapters/chapter1/images/sinus.png  used on input line 76.
@@ -1069,16 +1069,169 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [5 <./chapters/chapter1/images/quelconque.png> <./chapters/chapter1/images/triangle.png> <./chapters/chapter1/images/carre.png> <./chapters/chapter1/images/sinus.png>]
-<chapters/chapter1/images/source_tension.png, id=95, 93.34875pt x 85.31876pt>
+<chapters/chapter1/images/source_tension.png, id=135, 93.34875pt x 85.31876pt>
 File: chapters/chapter1/images/source_tension.png Graphic file (type png)
 <use chapters/chapter1/images/source_tension.png>
 Package pdftex.def Info: chapters/chapter1/images/source_tension.png  used on input line 87.
 (pdftex.def)             Requested size: 69.65346pt x 63.66472pt.
-<chapters/chapter1/images/source_courant.png, id=96, 63.23625pt x 85.31876pt>
+<chapters/chapter1/images/source_courant.png, id=136, 63.23625pt x 85.31876pt>
 File: chapters/chapter1/images/source_courant.png Graphic file (type png)
 <use chapters/chapter1/images/source_courant.png>
 Package pdftex.def Info: chapters/chapter1/images/source_courant.png  used on input line 96.
 (pdftex.def)             Requested size: 54.41553pt x 73.41954pt.
+<chapters/chapter1/images/potentiels.png, id=137, 567.11874pt x 227.85126pt>
+File: chapters/chapter1/images/potentiels.png Graphic file (type png)
+<use chapters/chapter1/images/potentiels.png>
+Package pdftex.def Info: chapters/chapter1/images/potentiels.png  used on input line 126.
+(pdftex.def)             Requested size: 314.40001pt x 126.31987pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[6 <./chapters/chapter1/images/source_tension.png> <./chapters/chapter1/images/source_courant.png> <./chapters/chapter1/images/potentiels.png>]
+<chapters/chapter1/images/courant.png, id=145, 476.78125pt x 120.45pt>
+File: chapters/chapter1/images/courant.png Graphic file (type png)
+<use chapters/chapter1/images/courant.png>
+Package pdftex.def Info: chapters/chapter1/images/courant.png  used on input line 139.
+(pdftex.def)             Requested size: 290.22107pt x 73.32184pt.
+<chapters/chapter1/images/resistance.png, id=146, 426.59375pt x 215.80624pt>
+File: chapters/chapter1/images/resistance.png Graphic file (type png)
+<use chapters/chapter1/images/resistance.png>
+Package pdftex.def Info: chapters/chapter1/images/resistance.png  used on input line 147.
+(pdftex.def)             Requested size: 169.29684pt x 85.6459pt.
+<chapters/chapter1/images/puissance.png, id=147, 709.65125pt x 110.4125pt>
+File: chapters/chapter1/images/puissance.png Graphic file (type png)
+<use chapters/chapter1/images/puissance.png>
+Package pdftex.def Info: chapters/chapter1/images/puissance.png  used on input line 160.
+(pdftex.def)             Requested size: 386.95897pt x 60.20645pt.
+<chapters/chapter1/images/attention.png, id=148, 872.25874pt x 257.96375pt>
+File: chapters/chapter1/images/attention.png Graphic file (type png)
+<use chapters/chapter1/images/attention.png>
+Package pdftex.def Info: chapters/chapter1/images/attention.png  used on input line 166.
+(pdftex.def)             Requested size: 266.03474pt x 78.67685pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./chapters/chapter1/images/courant.png> <./chapters/chapter1/images/resistance.png> <./chapters/chapter1/images/puissance.png>]
+<chapters/chapter1/images/ideal.png, id=163, 492.84125pt x 264.99pt>
+File: chapters/chapter1/images/ideal.png Graphic file (type png)
+<use chapters/chapter1/images/ideal.png>
+Package pdftex.def Info: chapters/chapter1/images/ideal.png  used on input line 179.
+(pdftex.def)             Requested size: 163.24658pt x 87.77448pt.
+<chapters/chapter1/images/reel.png, id=164, 472.76625pt x 262.9825pt>
+File: chapters/chapter1/images/reel.png Graphic file (type png)
+<use chapters/chapter1/images/reel.png>
+Package pdftex.def Info: chapters/chapter1/images/reel.png  used on input line 193.
+(pdftex.def)             Requested size: 163.24658pt x 90.80931pt.
+<chapters/chapter1/images/cas1.png, id=165, 447.6725pt x 342.27875pt>
+File: chapters/chapter1/images/cas1.png Graphic file (type png)
+<use chapters/chapter1/images/cas1.png>
+Package pdftex.def Info: chapters/chapter1/images/cas1.png  used on input line 205.
+(pdftex.def)             Requested size: 130.59859pt x 99.85368pt.
+<chapters/chapter1/images/cas2.png, id=166, 431.6125pt x 354.32375pt>
+File: chapters/chapter1/images/cas2.png Graphic file (type png)
+<use chapters/chapter1/images/cas2.png>
+Package pdftex.def Info: chapters/chapter1/images/cas2.png  used on input line 215.
+(pdftex.def)             Requested size: 130.59859pt x 107.21164pt.
+<chapters/chapter1/images/cas3.png, id=167, 438.63875pt x 375.4025pt>
+File: chapters/chapter1/images/cas3.png Graphic file (type png)
+<use chapters/chapter1/images/cas3.png>
+Package pdftex.def Info: chapters/chapter1/images/cas3.png  used on input line 224.
+(pdftex.def)             Requested size: 130.59859pt x 111.77385pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8 <./chapters/chapter1/images/attention.png> <./chapters/chapter1/images/ideal.png> <./chapters/chapter1/images/reel.png> <./chapters/chapter1/images/cas1.png> <./chapters/chapter1/images/cas2.png> <./chapters/chapter1/images/cas3.png>]
+<chapters/chapter1/images/ideal_i.png, id=184, 436.63126pt x 243.91125pt>
+File: chapters/chapter1/images/ideal_i.png Graphic file (type png)
+<use chapters/chapter1/images/ideal_i.png>
+Package pdftex.def Info: chapters/chapter1/images/ideal_i.png  used on input line 235.
+(pdftex.def)             Requested size: 163.24658pt x 91.19107pt.
+<chapters/chapter1/images/reel_i.png, id=185, 435.6275pt x 236.885pt>
+File: chapters/chapter1/images/reel_i.png Graphic file (type png)
+<use chapters/chapter1/images/reel_i.png>
+Package pdftex.def Info: chapters/chapter1/images/reel_i.png  used on input line 249.
+(pdftex.def)             Requested size: 163.24658pt x 88.7702pt.
+<chapters/chapter1/images/cas1_i.png, id=186, 415.5525pt x 325.215pt>
+File: chapters/chapter1/images/cas1_i.png Graphic file (type png)
+<use chapters/chapter1/images/cas1_i.png>
+Package pdftex.def Info: chapters/chapter1/images/cas1_i.png  used on input line 261.
+(pdftex.def)             Requested size: 130.59859pt x 102.20506pt.
+<chapters/chapter1/images/cas2_i.png, id=187, 401.5pt x 348.30125pt>
+File: chapters/chapter1/images/cas2_i.png Graphic file (type png)
+<use chapters/chapter1/images/cas2_i.png>
+Package pdftex.def Info: chapters/chapter1/images/cas2_i.png  used on input line 272.
+(pdftex.def)             Requested size: 130.59859pt x 113.29753pt.
+<chapters/chapter1/images/cas3_i.png, id=188, 413.545pt x 360.34625pt>
+File: chapters/chapter1/images/cas3_i.png Graphic file (type png)
+<use chapters/chapter1/images/cas3_i.png>
+Package pdftex.def Info: chapters/chapter1/images/cas3_i.png  used on input line 282.
+(pdftex.def)             Requested size: 130.59859pt x 113.80109pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[9 <./chapters/chapter1/images/ideal_i.png> <./chapters/chapter1/images/reel_i.png> <./chapters/chapter1/images/cas1_i.png> <./chapters/chapter1/images/cas2_i.png> <./chapters/chapter1/images/cas3_i.png>]
+<chapters/chapter1/images/voulue.png, id=202, 360.34625pt x 248.93pt>
+File: chapters/chapter1/images/voulue.png Graphic file (type png)
+<use chapters/chapter1/images/voulue.png>
+Package pdftex.def Info: chapters/chapter1/images/voulue.png  used on input line 293.
+(pdftex.def)             Requested size: 174.13034pt x 120.29028pt.
+<chapters/chapter1/images/genante.png, id=203, 295.1025pt x 137.51375pt>
+File: chapters/chapter1/images/genante.png Graphic file (type png)
+<use chapters/chapter1/images/genante.png>
+Package pdftex.def Info: chapters/chapter1/images/genante.png  used on input line 300.
+(pdftex.def)             Requested size: 174.13034pt x 81.1429pt.
+<chapters/chapter1/images/circuit.png, id=204, 454.69875pt x 153.57375pt>
+File: chapters/chapter1/images/circuit.png Graphic file (type png)
+<use chapters/chapter1/images/circuit.png>
+Package pdftex.def Info: chapters/chapter1/images/circuit.png  used on input line 303.
+(pdftex.def)             Requested size: 241.84843pt x 81.68427pt.
+
+Overfull \hbox (0.18275pt too wide) in paragraph at lines 305--306
+\OT1/cmr/m/n/10.95 (+9) La gestion de cette superposition est essentielle pour garantir une sortie optimale et pr^^Secise dans les 
+ []
+
+<chapters/chapter1/images/histogramme.png, id=205, 629.35126pt x 526.96875pt>
+File: chapters/chapter1/images/histogramme.png Graphic file (type png)
+<use chapters/chapter1/images/histogramme.png>
+Package pdftex.def Info: chapters/chapter1/images/histogramme.png  used on input line 312.
+(pdftex.def)             Requested size: 169.29684pt x 141.75276pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[10 <./chapters/chapter1/images/voulue.png> <./chapters/chapter1/images/genante.png> <./chapters/chapter1/images/circuit.png> <./chapters/chapter1/images/histogramme.png>]
+Overfull \hbox (0.10817pt too wide) in paragraph at lines 334--336
+\OT1/cmr/m/n/10.95 (+20) Enfin, la moyenne des hauteurs est simplement la somme totale des hauteurs divis^^See par le nombre 
+ []
+
+
+Overfull \hbox (0.47337pt too wide) in paragraph at lines 342--344
+\OT1/cmr/m/it/10.95 (-20) La moyenne d'une fonc-tion est ^^Segale ^^Ra l'int^^Segrale de cette fonc-tion di-vis^^See par la largeur de l'intervalle. 
+ []
+
 )
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1087,27 +1240,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[6 <./chapters/chapter1/images/source_tension.png> <./chapters/chapter1/images/source_courant.png>] (./electronique.aux (./chapters/front/front.aux) (./chapters/chapter1/chapter1.aux))
+[11] (./electronique.aux (./chapters/front/front.aux) (./chapters/chapter1/chapter1.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `electronique.out' has not changed.
-(rerunfilecheck)             Checksum: DCB25339BE88DA6DBE100BF5F5ACD2B8;1368.
+(rerunfilecheck)             Checksum: A75D20CD75FCCF59473D640BC1EF10E6;3135.
  ) 
 Here is how much of TeX's memory you used:
- 47394 strings out of 474116
- 1082316 string characters out of 5743683
- 1936187 words of memory out of 5000000
- 69043 multiletter control sequences out of 15000+600000
- 571135 words of font info for 114 fonts, out of 8000000 for 9000
+ 47678 strings out of 474116
+ 1089970 string characters out of 5743683
+ 1938187 words of memory out of 5000000
+ 69240 multiletter control sequences out of 15000+600000
+ 577920 words of font info for 158 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 88i,12n,93p,1039b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on electronique.pdf (6 pages, 425919 bytes).
+ 88i,12n,93p,1039b,529s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on electronique.pdf (11 pages, 2121428 bytes).
 PDF statistics:
- 152 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
- 33397 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 304 PDF objects out of 1000 (max. 8388607)
+ 202 compressed objects within 3 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 49940 words of extra memory for PDF output out of 51595 (max. 10000000)
 
