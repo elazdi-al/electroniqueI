@@ -1,0 +1,10 @@
+\contentsline {paragraph}{short}{2}{section*.1}%
+\contentsline {chapter}{Contents}{3}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Chapitre I -- Les Sources (Courant et Tension)}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Signaux}{4}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Définitions}{4}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Types de signaux}{4}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Signaux alternatifs et périodiques}{5}{subsection.1.1.3}%
+\contentsline {subsubsection}{Exemples}{5}{section*.3}%
+\contentsline {subsection}{\numberline {1.1.4}Signal Sinusoïdal}{5}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}Création des signaux électriques}{6}{subsection.1.1.5}%
