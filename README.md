@@ -1,2 +1,2 @@
 # comparch
-my comparch latex written course
+my comparch latex written course# electroniqueI
