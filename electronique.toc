@@ -26,4 +26,5 @@
 \contentsline {subsection}{\numberline {1.6.1}Valeurs moyennes (Domaines Continus)}{10}{subsection.1.6.1}%
 \contentsline {subsubsection}{Méthode 1}{10}{section*.12}%
 \contentsline {subsubsection}{Méthode 2}{11}{section*.13}%
-\contentsline {subsubsection}{Application}{11}{section*.14}%
+\contentsline {subsubsection}{Application - Comparaison d'un signal redressé et non-redressé}{11}{section*.14}%
+\contentsline {subsection}{\numberline {1.6.2}Calcul de la valeur efficace}{12}{subsection.1.6.2}%

@@ -359,4 +359,41 @@ dS = H(t) \cdot dt
 \[
 \text{Moyenne} = \frac{1}{T} \int_0^T H(t) \cdot dt
 \]
-\subsubsection{Application}
+\subsubsection{Application - Comparaison d'un signal redressé et non-redressé}
+\textbf{Signal Non-Redressé}
+\begin{center}
+    \includegraphics[width=0.5\textwidth]{chapters/chapter1/images/nonredresse.png}
+\end{center}
+\textit{Le signal redressé est obtenu en prenant la valeur absolue du signal non-redressé.} \\
+\textbf{Signal Redressé}
+\begin{center}
+    \includegraphics[width=0.5\textwidth]{chapters/chapter1/images/redresse.png}
+\end{center}
+\textit{Le signal redressé est obtenu en prenant la valeur absolue du signal non-redressé.} \\
+
+\subsection{Calcul de la valeur efficace}
+
+Pour calculer l'énergie à partir de la puissance instantanée $P(t)$, nous avons :
+\[
+\text{Énergie} = \int_0^T P(t) \, dt = \int_0^T U(t) I(t) \, dt = \int_0^T \frac{U^2(t)}{R} \, dt = \int_0^T R I^2(t) \, dt
+\]
+L'expression ci-dessus est la somme de toutes les puissances instantanées au cours du temps, et si on suppose que la tension est appliquée à une résistance $R$, on obtient ces équivalences. 
+
+Pour une tension sinusoïdale donnée sous la forme $U(t) = A \sin(2 \pi f t)$, l'énergie se calcule alors comme :
+\[
+\text{Énergie} = \int_0^T \frac{A^2 \sin^2(2 \pi f t)}{R} \, dt = \int_0^T \frac{A^2 [1 - \cos(4 \pi f t)]}{2 R} \, dt
+\]
+L'intégration de cette équation donne :
+\[
+\text{Énergie} = \frac{A^2}{R} \left[ \frac{T}{2} - \frac{\sin(4 \pi f t)}{8 \pi f} \right]_0^T = \frac{A^2}{R} \left( \frac{T}{2} \right)
+\]
+Ainsi, l'énergie totale est :
+\[
+\text{Énergie} = \frac{A^2 T}{2 R}
+\]
+
+La puissance efficace, qui est l'énergie divisée par la période $T$, est donnée par :
+\[
+P_{\text{EFF}} = \frac{\text{Énergie}}{T} = \frac{A^2}{2R} = \frac{U_{\text{EFF}}^2}{R}
+\]
+où $U_{\text{EFF}}$ est la valeur efficace de la tension. En posant $U_{\text{EFF}} = \frac{A}{\sqrt{2}}$, on obtient que pour $A = 1V$, $U_{\text{EFF}} \approx 0.707 V$.
